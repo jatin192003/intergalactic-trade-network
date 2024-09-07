@@ -1,6 +1,6 @@
-# **Cargo Trade Management System**
+# **Intergalactic Trade Network**
 
-This project is a Cargo Trade Management System built using **Node.js**, **Express**, and **MongoDB**. The system allows for creating, updating, and managing trades, inventories, cargos, and users, with real-time updates of item quantities and statuses in both the inventory and trade systems.
+This project is a Trade Management System built using **Node.js**, **Express**, and **MongoDB**. The system allows for creating, updating, and managing trades, inventories, cargos, and users, with real-time updates of item quantities and statuses in both the inventory and trade systems.
 
 ## **Features**
 - **Trade Management**: Create and manage trades between buyers and sellers.
