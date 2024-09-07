@@ -286,10 +286,4 @@ Remember to replace `YOUR_JWT_TOKEN` with an actual token obtained after logging
 4. Ensure your MongoDB instance is accessible from your hosting environment.
 5. Start your Node.js application on the host.
 
-## Contributing
 
-Contributions to this project are welcome. Please fork the repository and create a pull request with your changes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
