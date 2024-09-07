@@ -27,8 +27,8 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/space-trading-game-backend.git
-   cd space-trading-game-backend
+   git clone https://github.com/jatin192003/intergalactic-trade-network
+   cd intergalactic-trade-network
    ```
 
 2. Install dependencies:
